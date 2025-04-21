@@ -110,7 +110,9 @@ footer {
   color: white;
   margin-top: 2rem;
 }
-
+ a{
+ text-decoration: none;
+ }
 /* انیمیشن‌ها */
 @keyframes spin {
   0% {
